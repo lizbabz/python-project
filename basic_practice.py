@@ -35,12 +35,6 @@ def check_number(num):
     else:
         print("Zero.")
 
-# Call the function with different values
-
-check_number(10)
-check_number(-5)
-check_number(0)
-
 # Loop to print even numbers from 0 to 20
 
 for number in range(21):  # Loop through numbers 0 to 20
@@ -53,8 +47,3 @@ def calculate_circle_area(radius):
     pi = 3.14
     area = pi * (radius ** 2)
     return area
-
-# Call the function with different radii and print the results
-
-print(f"Area of circle with radius 5: {calculate_circle_area(5)}")
-print(f"Area of circle with radius 7.5: {calculate_circle_area(7.5)}")
