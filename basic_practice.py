@@ -2,9 +2,9 @@
 
 # Variables and Data Types
 
-num1 = 10                # Integer variable
-num2 = 3.14              # Float variable
-name = "Alice"           # String variable
+num1 = 17                # Integer variable
+num2 = 3.45              # Float variable
+name = "Nolan"           # String variable
 
 # Print the values and their types
 
