@@ -1,3 +1,5 @@
+#Basic Practice
+
 # Variables and Data Types
 
 num1 = 10                # Integer variable
